@@ -8,8 +8,8 @@ Once you've created a project and installed dependencies with `npm install` (or 
 
 `npm run dev`
 
-- Nov 1, 2023
-- References:
+Nov 1, 2023
+### References:
 - SvelteKit For Beginners | Movie App Tutorial
 - by developedbyed
 - https://youtu.be/ydR_M0fw9Xc
