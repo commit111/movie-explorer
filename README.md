@@ -1,5 +1,5 @@
 # Movie Explorer App
-## Made with Svelte, and uses TMDB (The Movie Database) API. Deployed with Defang. 
+## Made with Svelte, uses TMDB (The Movie Database) API and deployed with Defang. 
 Search for all your favorite and trending movies online at the tips of your fingers with Movie Explorer!
 
 ## Developing
